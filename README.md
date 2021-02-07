@@ -1,10 +1,10 @@
 # Prototype Source Code for Reboot The Earth - India
-Topic => Women + Climate <br />
-Title => Women + Change : A Platform for Women to Earn, Learn and Change <br />
-Team Name => PRAGYAN <br />
-Team Members => Ansh Walia, Satvik Chachra, Saransh Dawra <br />
-
-### Contributors
+### Hackathon     : ``` Reboot The Earth (India) ```
+### Organisation  : ``` United Nations Technology Innovation Labs (UNTIL) ```
+### Challenge     : ```Women + Climate```
+### Project Title : ```Women + Change : A Platform for Women to Earn, Learn and Change```
+### Team Name     : ```PRAGYAN```
+### Team Members
 
 <img src="img/ansh.png" height="150px" width="150px"> <img src="img/satvik.jpg" height="150px" width="150px"> <img src="img/saransh.jpg" height="150px" width="150px">
 <br>
